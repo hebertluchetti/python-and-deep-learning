@@ -45,13 +45,12 @@ Genetic Algorithm combined with Neural Networks examples.
   - Video: [Car/A.I. Learns to Drive](https://www.youtube.com/watch?v=_TGGbPjT7pg)
   - More Information: [A.I. Learns to Drive](https://jatinmandav.wordpress.com/2018/03/09/a-i-learns-to-drive)
 
-##Contact: Hebert Luchetti Ribeiro
+## Contact: Hebert Luchetti Ribeiro
 ```bash
-Rua Horácio Pessini 330, ap.32 – Nova Aliança, 
-CEP 14026-590, Ribeirão Preto – S.P. - Brazil
+Ribeirão Preto – S.P. - Brazil
 
-mobile: +55 (16) 99796-7399
-email: hebert.luchetti@gmail.com
-linkedin: https://www.linkedin.com/in/hebert-luchetti-ribeiro-aa42923
-youtube:https://www.youtube.com/channel/UCf0w-raMzq6rNxxjNJ7D1gQ
+E-mail: hebert.luchetti@gmail.com
+Linkedin: https://www.linkedin.com/in/hebert-luchetti-ribeiro-aa42923
+Youtube:https://www.youtube.com/channel/UCf0w-raMzq6rNxxjNJ7D1gQ
+GitHub: https://github.com/hebertluchetti/PythonAndDeepLearning.git
 ```
