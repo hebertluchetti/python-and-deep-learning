@@ -1,0 +1,10 @@
+conda install -c conda-forge pymunk
+conda install -c conda-forge pyglet
+conda install -c conda-forge shapely
+conda install pytorch torchivsion -c pytorch
+conda install -c anaconda configparser
+
+
+
+
+
