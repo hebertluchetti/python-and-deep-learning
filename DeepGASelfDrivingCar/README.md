@@ -38,14 +38,14 @@ For running the application is needed run the `car_simulation_win.py` script.
 ## Genetic Algorithm and Neural Networks
 Genetic Algorithm combined with Neural Networks examples.
 
-- [Intelligent Flappy Bird](Genetic-Algorithm-And-Neural-Networks/Intelligent_Flappy_Bird/)
+- Intelligent Flappy Bird (Genetic-Algorithm-And-Neural-Networks/Intelligent_Flappy_Bird/)
   - Video: [A.I. Learns to Play Flappy-Bird](https://www.youtube.com/watch?v=H9BY-xr2QBY)
   - More Information: [A.I. Learns to Play Flappy-Bird](https://jatinmandav.wordpress.com/2018/03/05/a-i-learns-to-play-flappy-bird/)
-- [Self-Driving Cars](Genetic-Algorithm-And-Neural-Networks/Self-Driving-Cars/)
+- Self-Driving Cars (Genetic-Algorithm-And-Neural-Networks/Self-Driving-Cars/)
   - Video: [Car/A.I. Learns to Drive](https://www.youtube.com/watch?v=_TGGbPjT7pg)
   - More Information: [A.I. Learns to Drive](https://jatinmandav.wordpress.com/2018/03/09/a-i-learns-to-drive)
 
-#Contact: Hebert Luchetti Ribeiro
+##Contact: Hebert Luchetti Ribeiro
 ```bash
 Rua Horácio Pessini 330, ap.32 – Nova Aliança, 
 CEP 14026-590, Ribeirão Preto – S.P. - Brazil
