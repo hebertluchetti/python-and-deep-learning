@@ -9,5 +9,5 @@ Ribeirão Preto – S.P. - Brazil
 E-mail: hebert.luchetti@gmail.com
 Linkedin: https://www.linkedin.com/in/hebert-luchetti-ribeiro-aa42923
 Youtube:https://www.youtube.com/channel/UCf0w-raMzq6rNxxjNJ7D1gQ
-GitHub: https://github.com/hebertluchetti/PythonAndDeepLearning.git
+GitHub: https://github.com/hebertluchetti
 ```
